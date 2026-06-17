@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Discourse Form Embed** Plugin
 
 **Plugin Summary**
 
