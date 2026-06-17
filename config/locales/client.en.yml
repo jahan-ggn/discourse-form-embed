@@ -6,4 +6,16 @@ en:
           discourse_form_embed: "Discourse Form Embed"
   js:
     discourse_form_embed:
-      placeholder: placeholder
+      title: "Discourse Form Embed"
+      admin_navigation: "Discourse Form Embed"
+    form_embed:
+      insert_form: "Insert form"
+      no_templates: "No form templates available."
+      submit: "Submit"
+      submit_success: "Form submitted successfully."
+      load_error: "Failed to load form."
+      consent:
+        title: "Confirm Submission"
+        message: "Please review your information before submitting."
+        confirm: "Confirm"
+        cancel: "Cancel"

@@ -1,0 +1,17 @@
+.form-template-chooser-modal {
+  .form-template-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin-bottom: 0.5em;
+    }
+  }
+
+  .form-template-item {
+    display: block;
+    text-align: left;
+    width: 100%;
+  }
+}

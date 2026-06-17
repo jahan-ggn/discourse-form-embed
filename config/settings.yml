@@ -1,4 +1,17 @@
-discourse_form_embed:
+plugins:
   discourse_form_embed_enabled:
     default: false
     client: true
+  discourse_form_embed_allowed_groups:
+    default: ""
+    type: group_list
+  discourse_form_embed_endpoints:
+    type: list
+    list_type: secret
+    default: ""
+    client: false
+  discourse_form_embed_api_key:
+    type: secret
+    default: ""
+    secret: true
+    client: false
