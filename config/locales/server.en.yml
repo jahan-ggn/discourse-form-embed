@@ -3,4 +3,4 @@ en:
     discourse_form_embed_enabled: "Enable the form embed plugin"
     discourse_form_embed_allowed_groups: "Groups allowed to insert forms in the composer. By default only admins are allowed."
     discourse_form_embed_endpoints: "Form endpoint mappings (one per line: form_id|complete endpoint)"
-    discourse_form_embed_api_key: "API key sent to external endpoints for request verification"
+    discourse_form_embed_api_key: "Discourse API key used to authenticate form submission requests to external endpoints"
